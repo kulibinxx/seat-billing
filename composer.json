@@ -12,13 +12,13 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Denngarr\\Seat\\Billing\\": "src/"
+            "kulibinxx\\Seat\\Billing\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Denngarr\\Seat\\Billing\\BillingServiceProvider"
+                "kulibinxx\\Seat\\Billing\\BillingServiceProvider"
             ]
         }
     },
