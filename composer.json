@@ -1,12 +1,12 @@
 {
-    "name": "denngarr/seat-billing",
-    "description": "Plugin to assist with corp/alliance billing statements",
+    "name": "kulibinxx/seat-billing",
+    "description": "Plugin to assist with  billing statements",
     "type": "seat-plugin",
     "license": "GPL-2.0-only",
     "authors": [
         {
-            "name": "Denngarr B'tarn",
-            "email": "ed.stafford@gmail.com"
+            "name": "Evgenyi D",
+            "email": "skateh2017@gmail.com"
         }
     ],
     "minimum-stability": "dev",
